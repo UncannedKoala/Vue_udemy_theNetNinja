@@ -1,0 +1,5 @@
+BY :: The Net Ninja (Shaun Pelling) Online Coding Tutor & Net Ninja
+
+Vue js did not allow multiple root components, this behaviour is same as React. But starting Vue3 it alloes having multiple root components.
+Vue 3 bring support for Suspense Components whach can be used handle asynchronous Components.
+Vue 3 also bring the support to TS(TypeScript)
